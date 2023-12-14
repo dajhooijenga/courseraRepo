@@ -1,1 +1,3 @@
 # courseraRepo
+
+Calculate simple interest
